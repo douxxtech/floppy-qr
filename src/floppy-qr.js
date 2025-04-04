@@ -13,7 +13,7 @@ const { loadQRCodesOwO } = require('./loadQR');
 const program = new commander.Command();
 
 program
-  .version('1.1.0')
+  .version('1.4.3')
   .description('Floppy QR - Store files in QR codes');
 
 program
